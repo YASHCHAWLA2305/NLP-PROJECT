@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+nltk
+contractions
+wordcloud
+afinn
+gensim
+pyLDAvis
+openpyxl
