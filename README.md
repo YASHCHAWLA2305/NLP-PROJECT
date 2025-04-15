@@ -1,4 +1,4 @@
-                                                            ** NLP-PROJECT **
+                                                ** NLP-PROJECT **
 Overview: Analysing customer’s demographics and reviews submitted on the website.
 
 
