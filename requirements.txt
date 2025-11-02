@@ -1,5 +1,6 @@
 pandas
 numpy
+Scikit-learn
 matplotlib
 nltk
 contractions
@@ -8,3 +9,4 @@ afinn
 gensim
 pyLDAvis
 openpyxl
+Pandas Profiling
